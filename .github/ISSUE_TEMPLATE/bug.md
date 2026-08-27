@@ -2,6 +2,7 @@
 name: Bug
 about: It behaves wrongly. Someone could hit it.
 title: ''
+type: Bug
 ---
 
 <!--
