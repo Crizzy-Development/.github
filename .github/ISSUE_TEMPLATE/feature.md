@@ -2,6 +2,7 @@
 name: Feature
 about: It behaves as intended, and we have since thought of better.
 title: ''
+type: Feature
 ---
 
 <!--
