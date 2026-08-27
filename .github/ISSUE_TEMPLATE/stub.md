@@ -2,6 +2,7 @@
 name: Stub
 about: It behaves as built, and what is built is deliberately less than intended.
 title: ''
+type: Stub
 ---
 
 <!--
